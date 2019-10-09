@@ -1,0 +1,16 @@
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\bin\Debug\BotFindJob.exe.config
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\bin\Debug\BotFindJob.exe
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\bin\Debug\BotFindJob.pdb
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\bin\Debug\Newtonsoft.Json.dll
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\bin\Debug\Telegram.Bot.dll
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\bin\Debug\Newtonsoft.Json.xml
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\bin\Debug\Telegram.Bot.xml
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\obj\Debug\BotFindJob.csprojAssemblyReference.cache
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\obj\Debug\BotFindJob.Form1.resources
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\obj\Debug\BotFindJob.Properties.Resources.resources
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\obj\Debug\BotFindJob.csproj.GenerateResource.cache
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\obj\Debug\BotFindJob.csproj.CoreCompileInputs.cache
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\obj\Debug\BotFindJob.csproj.CopyComplete
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\obj\Debug\BotFindJob.exe
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\obj\Debug\BotFindJob.pdb
+D:\Практика\Междисциплинарка\Mezdiscipline\BotFindJob\bin\Debug\MihaZupan.HttpToSocks5Proxy.dll
