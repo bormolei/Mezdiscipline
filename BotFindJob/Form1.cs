@@ -59,7 +59,7 @@ namespace BotFindJob
 
 		void BtnRunClick(object sender, EventArgs e)
 		{
-			var text = "765215433:AAEN9q1sxI6e4OWoDTxwzUFjBYoUN0xReqc";
+			var text =; // сюда писать токен
 			if(!this.bw.IsBusy)//если не запущен
 			{
 				this.bw.RunWorkerAsync(text);//запускаем
